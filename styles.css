@@ -20,7 +20,7 @@
     h1 {
       align: left;
     }
-.pop-out-card {
+    .pop-out-card {
   float: left;
   display: flex;
   flex-direction: column;
